@@ -1,0 +1,83 @@
+.nav-icon{
+    padding-left: 20px;
+    padding-right: 0;
+    color: gray;
+}
+
+.main-head{
+    color: blueviolet;
+}
+
+p{
+    color: brown;
+}
+
+.load-img{
+    width: 100%;
+   
+}
+
+button{
+    background-color: darkorchid;
+    float: right;
+    
+}
+
+th {
+    cursor: pointer;
+}
+
+td{
+    cursor: pointer;
+}
+
+.card3{
+    cursor: pointer;
+}
+
+.wrapper{
+    display: none;
+}
+
+.wrapper > li:hover{
+    display: block;
+}
+
+.sidebar{
+    border: 3px solid rgb(231, 228, 228);
+}
+
+a.active{
+    background-color: blueviolet;
+}
+
+li{
+    line-height: 40px;
+}
+
+.profilee{
+    padding-right: 0;
+    align-items: right;
+    padding-top: 80px;
+  
+}
+
+.profile{
+   background-color: rebeccapurple;
+   color: white;
+}
+
+.icon{
+     
+    color: purple;
+    border-color: violet;
+    
+    
+    
+}
+
+.ico{
+    float: right;
+    padding-left: 60px;
+
+}
